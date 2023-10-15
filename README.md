@@ -14,13 +14,15 @@ Based on the observed trends, it would be a strategic move for the business to c
 satisfaction.
 
 ### Most Common Items Order per Grade Year
-I looked into whether grade year matters for food preference
-![Year 1](https://github.com/andylam20/FoodXAnalysis/assets/105662876/df648b35-843b-4905-92a3-3ca9c4cc3f2d)
-![Year 2](https://github.com/andylam20/FoodXAnalysis/assets/105662876/8ae945f2-82d1-4d7c-ba4e-3ec8adfc5332)
-![Year 3](https://github.com/andylam20/FoodXAnalysis/assets/105662876/c59e23d9-9f37-44bc-8bfe-17d3e898c900)
-![Year 4](https://github.com/andylam20/FoodXAnalysis/assets/105662876/64a63b48-a7fc-4532-9419-3da59faf1d22)
+I looked into whether grade year matters for food preference.
+![Year 1](https://github.com/andylam20/FoodXAnalysis/assets/105662876/ca986ea8-3e59-4142-a167-161d0cc7b88b)
+![Year 2](https://github.com/andylam20/FoodXAnalysis/assets/105662876/c55bc12c-f74e-4694-8336-aae63e7ce687)
+![Year 3](https://github.com/andylam20/FoodXAnalysis/assets/105662876/dc457a71-952e-4a28-8189-5db69f8edc8e)
+![Year 4](https://github.com/andylam20/FoodXAnalysis/assets/105662876/2b8461c3-8bc6-4f2f-a9b1-a52f6e16b8e1)
 
-From first impressions, we can see that Year 1 and Year 4 have less than 30 samples so we can't assume anything from their data, however, students in Year 2 and Year 3 have much more samples. We can see from their data that there are potential taste differences. For example, we see that the top food items for both groups do not overlap meaning meaning that there is a taste difference depending on the year. One implication of this data is that it is heavily skewed toward Year 2 and Year 3 students. Similarly, the data does not consider college students who are staying longer than four years such as students getting a master's or doctorate degree in which they have to take more than the usual four years in college. Lastly, this data does not consider customers who do not go to school but want to try the food.
+From first impressions, we can see that Year 1 and Year 4 have less than 30 samples so we can't assume anything from their data, however, students in Year 2 and Year 3 have much more samples. We can see from their data that there are potential taste differences. For example, we see that the top food items for both groups do not overlap meaning meaning that there is a taste difference depending on the year. 
+
+One implication of this data is that it is heavily skewed toward Year 2 and Year 3 students. Similarly, the data does not consider college students who are staying longer than four years such as students getting a master's or doctorate degree in which they have to take more than the usual four years in college. Lastly, this data does not consider customers who do not go to school but want to try the food.
 
 ## Data 
 ## Model
